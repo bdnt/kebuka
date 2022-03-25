@@ -5,7 +5,7 @@ ini markdown 1
 bagaimana ini
 
 |-----------------+------------+-----------------|
-| Group |How To| Key  |
+| Group           |How To      | Key             |
 |-----------------|:-----------|:----------------|
 | scrolling | down | \<C-d\> / \<C-e\> |
 | scrolling | down | \<C-d\> / \<C-e\> |

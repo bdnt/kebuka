@@ -4,5 +4,8 @@ ini markdown 1
 ###### The smallest heading
 bagaimana ini
 
+|-----------------+------------+-----------------|
+| Default aligned |Left aligned| Center aligned  |
+|-----------------|:-----------|:----------------|
 | Group | How To | Key |
 | scrolling | down | <C-d> / <C-ye |

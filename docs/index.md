@@ -5,7 +5,11 @@ ini markdown 1
 bagaimana ini
 
 |-----------------+------------+-----------------|
-| Default aligned |Left aligned| Center aligned  |
+| Group |How To| Key  |
 |-----------------|:-----------|:----------------|
-| Group | How To | Key |
+| scrolling | down | \<C-d\> / \<C-e\> |
+| scrolling | down | \<C-d\> / \<C-e\> |
+| scrolling | down | \<C-d\> / \<C-e\> |
+| scrolling | down | \<C-d\> / \<C-e\> |
+| scrolling | down | \<C-d\> / \<C-e\> |
 | scrolling | down | \<C-d\> / \<C-e\> |
